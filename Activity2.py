@@ -1,0 +1,5 @@
+print("Hello, I am Lalith")
+print(4)
+print("Good Morning, \nHow are you")
+print("Hello", 5 )
+print("Welcome to", end="*")
