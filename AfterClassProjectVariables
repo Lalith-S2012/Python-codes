@@ -1,0 +1,12 @@
+Lalith="6th September"
+Taksheel="9th January"
+Priyansh="8th February"
+Krithi="21st January"
+Seetha="22nd September"
+
+print(Lalith)
+print(Taksheel)
+print(Priyansh)
+print(Krithi)
+print(Seetha)
+
