@@ -6,3 +6,4 @@ if cp_1 > sp:
     print("You have made a Loss of ", int(cp_1-sp))
 else:
     print("You have made a Profit of ", int(sp-cp_1) )
+
