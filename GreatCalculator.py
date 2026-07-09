@@ -6,3 +6,6 @@ elif marks <=89 and marks >=74:
     print("You have got a B")
 else:
     print("You have got a C, You can do better")
+
+if marks == "A":
+    print("")
