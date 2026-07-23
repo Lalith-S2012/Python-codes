@@ -437,6 +437,9 @@ elif cont == "7" or cont == "antarctica":
         | **Mid-Range**     | $10000 – $16000    | Cruise cabin                               | Restaurants                 |
         | **Luxury**        | $25000+            | Luxury expedition suite                    | Fine dining                 |""")
 
+    else:
+        print("Invalid Input")
+
 
 else:
     print("Invalid Input")
