@@ -59,7 +59,6 @@ for i in range(1, half_rows):
     print()
  
  
-# PART 4: Final message
-print("
-===== LOOP ART DESIGN COMPLETE =====")
+print("===== LOOP ART DESIGN COMPLETE =====")
+
 print("You created star, triangle, and diamond patterns using nested loops!")
