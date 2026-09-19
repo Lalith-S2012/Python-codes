@@ -22,7 +22,7 @@ while True:
         a = int(input("Enter a number: "))
         b = int(input("Enter another Number: "))
 
-        oper = int(input("Enter the number next to the operation you want to operate\n1. addition\n2. subtraction\n3. multiplication\n4. division "))
+        oper = int(input("Enter the number next to the operation you want to operate\n1. addition\n2. subtraction\n3. multiplication\n4. division\n "))
 
         if oper == 1:
             print(f"{a} + {b} =", add(a, b))
