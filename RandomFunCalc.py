@@ -1,4 +1,5 @@
 import math
+import random
 
 print("===== RANDOM FUN CALCULATOR =====")
 
@@ -38,8 +39,7 @@ num2 = int(input("Enter second number for GCD: "))
 
 print("GCD is:", math.gcd(num1, num2))
 
-print("\n===== FUN CALCULATOR SUMMARY =====")
+print("\n FUN CALCULATOR SUMMARY ")
 print("Lucky Number:", lucky_number)
 print("Random Activity:", random_activity)
 print("Secret Number:", secret_number)
-print("==================================")
