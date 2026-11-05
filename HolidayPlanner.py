@@ -437,12 +437,19 @@ elif cont == "7" or cont == "antarctica":
         | **Mid-Range**     | $10000 – $16000    | Cruise cabin                               | Restaurants                 |
         | **Luxury**        | $25000+            | Luxury expedition suite                    | Fine dining                 |""")
 
+<<<<<<< HEAD
+=======
+    else:
+        print("Invalid Input")
+
+>>>>>>> 0944b6385507dd353c5a14eb5be3ac9b45040038
 
 else:
     print("Invalid Input")
 
 
 print("Hope you enjoy your Holiday, Bye", name)
+<<<<<<< HEAD
 print("Use this Holiday Planner Again!!!")
 
 
@@ -455,3 +462,6 @@ print("Use this Holiday Planner Again!!!")
 
 
 
+=======
+print("Use this Holiday Planner Again!!!")
+>>>>>>> 0944b6385507dd353c5a14eb5be3ac9b45040038
